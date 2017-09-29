@@ -19,7 +19,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>murach</groupId>
-    <artifactId>ch02email</artifactId>
+    <artifactId>murach</artifactId>
     <version>1.2.0.Final</version>
     <packaging>war</packaging>
     <name>OpenShift Quickstarts: Tomcat List: JDBC</name>
